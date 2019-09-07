@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eyioghaghi.coinmux.com/sitemap.xml
